@@ -1,5 +1,5 @@
 # DSC680Portfolio
- My portfolio for DSC680
+ My portfolio for DSC680 - Kalaivani Kalyanasundaram
 
 ## Project 1 - CVD Model
 
